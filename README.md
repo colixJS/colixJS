@@ -1,7 +1,6 @@
 <div align="center">
 
-&nbsp;・Tech Studant,<br><br> 
-![](https://komarev.com/ghpvc/?username=colixJS&color=blue)
+&nbsp;・Tech Studant<br><br> 
 </div>
 
 
