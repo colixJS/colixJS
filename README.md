@@ -9,9 +9,9 @@
 <!-- END LANG TECH-->
 
 ```css                                               
-            Username: colixx
-            Discord:  @sendkiss
-            Website:  colixx.xyz    
-            Location: your heart
-            ---------------------                                           
+Username: colixx
+Discord:  @sendkiss
+Website:  colixx.xyz    
+Location: your heart
+---------------------                                           
 ```  
