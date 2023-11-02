@@ -1,6 +1,6 @@
 <div align="center">
 
-&nbsp;・Tech Studant<br><br> 
+&nbsp;Tech Studant<br><br> 
 </div>
 
 
