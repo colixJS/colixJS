@@ -10,8 +10,7 @@
 
 ```css                                               
 Username: colixx
-Discord:  @sendkiss
-Website:  colixx.xyz    
+Discord:  @thecolixx
 Location: your heart
 ---------------------                                           
 ```  
